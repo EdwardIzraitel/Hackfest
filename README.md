@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Hackfest2019
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,6 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# Hackfest
-bb5f178ebf9b59b18190b7b844d2f92c
->>>>>>> fcca83934bc5ebf901c7f0210d1ad44d36f4ba10
